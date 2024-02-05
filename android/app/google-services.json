@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "660454702638",
+    "project_id": "vokeo-4db4d",
+    "storage_bucket": "vokeo-4db4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660454702638:android:b1d0c8f47a8ad2478429bf",
+        "android_client_info": {
+          "package_name": "com.example.vokeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660454702638-soin85vklp7lobtcs5cb5jh0cch8feoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vokeo",
+            "certificate_hash": "16b772d40a95267fae6319ea272a0173de3c4799"
+          }
+        },
+        {
+          "client_id": "660454702638-52boann8e7ici44jsn34v81g7lh7app7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVlAzOvDD7dYYw8ILGRuxnX6gyFck5d_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660454702638-52boann8e7ici44jsn34v81g7lh7app7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660454702638:android:d5322f45f086e0268429bf",
+        "android_client_info": {
+          "package_name": "com.ivarva.vokeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660454702638-52boann8e7ici44jsn34v81g7lh7app7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVlAzOvDD7dYYw8ILGRuxnX6gyFck5d_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660454702638-52boann8e7ici44jsn34v81g7lh7app7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660454702638:android:2bfd7efdf52ef4bb8429bf",
+        "android_client_info": {
+          "package_name": "in.brototype.vokeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660454702638-ssch6edteleo88k4vgalk6rfq6allb0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.brototype.vokeo",
+            "certificate_hash": "16b772d40a95267fae6319ea272a0173de3c4799"
+          }
+        },
+        {
+          "client_id": "660454702638-52boann8e7ici44jsn34v81g7lh7app7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVlAzOvDD7dYYw8ILGRuxnX6gyFck5d_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660454702638-52boann8e7ici44jsn34v81g7lh7app7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
